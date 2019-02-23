@@ -1,0 +1,18 @@
+#DrJava configuration file
+#Thu Mar 08 13:45:16 BDT 2018
+lineenum.enabled = true
+key.delete.next = [shift DELETE]
+key.delete.previous = [shift BACK_SPACE]
+interactions.reset.prompt = false
+save.before.compile = true
+indent.level = 4
+recent.files = [C:\\Users\\18101210\\ajaira.java,C:\\Users\\18101210\\problem9.java,C:\\Users\\18101210\\problem8.java,C:\\Users\\18101210\\problem7.java,C:\\Users\\18101210\\problem6.java]
+window.height = 784
+window.width = 1382
+window.x = -8
+window.y = -8
+window.state = 6
+last.dir = C:\\Users\\18101210\\problem10.java
+last.interactions.dir = C:\\Users\\18101210
+tabbedpanes.state = 683 384 700 400
+new.version.notification.last = 1520485580359

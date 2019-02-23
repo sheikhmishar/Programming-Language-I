@@ -1,0 +1,13 @@
+public class problem1a{
+    
+    public static void main(String[] args){
+       
+        for(int a = 24, a >= -6; a-=6){
+        
+            System.out.print(a);
+        
+        }
+        
+    }
+    
+}
